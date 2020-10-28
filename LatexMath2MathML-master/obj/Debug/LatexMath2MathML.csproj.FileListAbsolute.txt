@@ -1,0 +1,8 @@
+F:\CodeThesis\TTS Graph\LatexMath2MathML-master\bin\Debug\log4net.config
+F:\CodeThesis\TTS Graph\LatexMath2MathML-master\bin\Debug\favicon.png
+F:\CodeThesis\TTS Graph\LatexMath2MathML-master\bin\Debug\styles.css
+F:\CodeThesis\TTS Graph\LatexMath2MathML-master\bin\Debug\LatexMath2MathML.dll
+F:\CodeThesis\TTS Graph\LatexMath2MathML-master\bin\Debug\LatexMath2MathML.pdb
+F:\CodeThesis\TTS Graph\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.csprojResolveAssemblyReference.cache
+F:\CodeThesis\TTS Graph\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.dll
+F:\CodeThesis\TTS Graph\LatexMath2MathML-master\obj\Debug\LatexMath2MathML.pdb
